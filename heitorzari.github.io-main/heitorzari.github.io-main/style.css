@@ -17,5 +17,7 @@ color: rgb(43, 5, 213);
 a:hover{
 color: rgb(171, 6, 6);
 }
-img src="SilvioSantos.png" alt="foto zueira" width="300px"
+img{
+    max-width: 100%;
+}
   
